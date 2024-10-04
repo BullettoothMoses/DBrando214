@@ -8,7 +8,7 @@
 - [Network+](https://www.credly.com/badges/5fd84cb4-a141-4247-ad01-bb7a96cc524e/public_url)
 - [A+](https://www.credly.com/badges/7d392e7f-861e-4584-a86f-222070f402a1/public_url)
 - [Introduction to Cybersecurity Tools & Cyber Attacks](https://www.credly.com/badges/38dfac53-a34d-4d60-b7a3-0b7bb024b3bb/public_url)
-- 
+  
 
 <h2> 🤳 Connect with me:</h2>
 
